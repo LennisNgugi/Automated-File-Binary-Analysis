@@ -11,6 +11,8 @@ Read more about the Oledump Project: https://blog.didierstevens.com/2014/12/17/i
 
 Step 1: Bash Analyse_File
 
+![](1.JPG)
+
 Step 2: 
 
 
