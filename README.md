@@ -9,4 +9,8 @@ Read more about the Oledump Project: https://blog.didierstevens.com/2014/12/17/i
 
 # Usage
 
+Step 1: Bash Analyse_File
+
+Step 2: 
+
 
