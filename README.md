@@ -13,6 +13,10 @@ Step 1: Bash Analyse_File
 
 ![](1.JPG)
 
-Step 2: 
+Step 2: Eye's Menu
 
+![](2.JPG)
 
+Step 3
+
+![](3.JPG)
