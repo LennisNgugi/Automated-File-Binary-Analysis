@@ -1,4 +1,4 @@
-# Automated-File-Binary-Analysis
+#                                 (0) EYE
 The aim of this repository is to automate the anaysis of file's binary using the oledump project.
 
 Read more about the Oledump Project: https://blog.didierstevens.com/2014/12/17/introducing-oledump-py/
@@ -17,6 +17,8 @@ Step 2: Eye's Menu
 
 ![](2.JPG)
 
-Step 3
+Step 3: File Analysis Options
 
 ![](3.JPG)
+
+Step 4: Binary Analysis
