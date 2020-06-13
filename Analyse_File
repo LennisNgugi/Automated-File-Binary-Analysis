@@ -19,7 +19,7 @@ ip=$(ip addr show wlan0 | awk '/inet / {print $2}' | cut -d/ -f 1)
 
  EYE is intented ONLY FOR EDUCATIONAL PURPOSES!!! 
 
- To get a better idea of how this tool works, 'nano Blue' in the terminal 
+ To get a better idea of how this tool works, 'Analyse_File' in the terminal 
   
  
 
