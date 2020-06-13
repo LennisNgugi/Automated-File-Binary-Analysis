@@ -8,6 +8,7 @@ Read more about the Oledump Project: https://blog.didierstevens.com/2014/12/17/i
 <li> Python </li>
 
 # Usage
+To use script: Bash Analyse_File 
 
 Eye's Menu / File Analysis Options
 
