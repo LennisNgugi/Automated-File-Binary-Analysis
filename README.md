@@ -9,16 +9,12 @@ Read more about the Oledump Project: https://blog.didierstevens.com/2014/12/17/i
 
 # Usage
 
-Step 1: Bash Analyse_File
-
-![](1.JPG)
-
-Step 2: Eye's Menu
+Eye's Menu / File Analysis Options
 
 ![](2.JPG)
 
-Step 3: File Analysis Options
+Binary Analysis
 
 ![](3.JPG)
 
-Step 4: Binary Analysis
+
